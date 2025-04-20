@@ -1,0 +1,17 @@
+{
+    "id": "Balatrans",
+    "name": "Balatrans",
+    "display_name": "LGBTQ+",
+    "author": ["Kay1a"],
+    "description": "Localization and asset framework",
+    "prefix": "kay",
+    "main_file": "Balatrans.lua",
+    "assets": ["assets"], 
+    "priority": -100,
+    "badge_colour": "8C006B",
+    "badge_text_colour": "FFFFFF",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "1.0.0"
+}
